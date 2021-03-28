@@ -1,0 +1,12 @@
+
+W zwykłej implementacji interfejsu nie możemy go zmienić w trakcie działania kodu a w wzorcu strategia możemy.
+
+Zalety wzorca:
+	- unikamy nadmiaru nieczytelnego kodu 
+	- ogarniczenie ilości warunków
+	- struktura kodu pozwala na dodawanie i zmienianie algorytmów
+
+Wady wzorca:
+	- pobieranie danych z klasy kontekstu wymaga zasotoswania większej logiki
+	- mamy sporo więcej klas
+	- musimy znać wszystkie strategie i znać różnicę miedzy nimi żeby dobrać odpowiednią
