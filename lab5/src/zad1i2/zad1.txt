@@ -1,0 +1,2 @@
+Wzorzec dekorator pozwala na dodawanie nowych funkcji do istniejących klas podczas działania programu. Opakowuje się klasę bazową klasą dekorującom.
+Wykorzystywany jest do operacji na plikach które w trakcie działania mogą być rozbudowywane na wiele sposobów.
