@@ -1,0 +1,2 @@
+Główna różnica między adapterem a fasadą jest taka, że subklasy we wzorcu fasada mogą być zmodyfikowane i
+wtedy modyfikuje się klasę również fasada, w adapterze subklasy nie mogą być modyfikowane

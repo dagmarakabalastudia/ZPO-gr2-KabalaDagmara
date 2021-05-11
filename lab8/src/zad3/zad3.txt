@@ -1,0 +1,2 @@
+metoda szablonowa wykorzystywana jest niemal wszędzie gdzie wytwarzamy produkty różniące się szczegółami
+jak np. budynki budowane przez deweloperów, produkcja samochodów, pizzeria, lodziarnia
