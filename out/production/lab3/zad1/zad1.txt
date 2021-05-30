@@ -1,1 +1,0 @@
-Wzorzec obserwatora stosowany jest głównie w aplikacjach z graficznym interfejsem.

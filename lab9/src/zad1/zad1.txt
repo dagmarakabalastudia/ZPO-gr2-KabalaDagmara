@@ -1,0 +1,2 @@
+Przykładem wykorzystania singletonu może być klasa przechowująca konfigurację aplikacji. Z każdego miejsca w systemie możemy ją zmodyfikować i chcemy, żeby zmiany były widoczne również z dowolnego miejsca.
+Jednocześnie nie możemy pozwolić na to, by w systemie były utrzymywane różne wersje konfiguracji.

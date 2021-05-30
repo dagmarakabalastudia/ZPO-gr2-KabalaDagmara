@@ -1,0 +1,3 @@
+Aby wykorzystać wzorzec w programach współbieżnych należy zmodyfikować deklarację zmiennych i funkcji o słowa volatile oraz synchronized.
+volatile oznacza że zmienna jest ulotna
+synchronized oznacza obsługę funkcji przez najszybszy wątek, pozostałe funkcje muszą oczekiwać na swoją kolej

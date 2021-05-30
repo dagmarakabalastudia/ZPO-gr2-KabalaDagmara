@@ -1,0 +1,12 @@
+Styczen:4000.00
+Luty:3900.00
+Marzec:2000.00
+Kwiecien:1800.00
+Maj:3300.00
+Czerwiec:2900.50
+Lipiec:5500.00
+Sierpien:6200.00
+Wrzesien:1100.00
+Pazdziernik:3200.00
+Listopad:2100.00
+Grudzien:8904.00
